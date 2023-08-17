@@ -8,6 +8,6 @@ public class Main {
         double h = 1.8;
         int height = (int) h;
         double bmi = service.calculate(w, h);
-        System.out.println((int)bmi);
+        System.out.println((int) bmi);
     }
 }
